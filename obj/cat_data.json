@@ -1,0 +1,58 @@
+{
+    "property_type": [
+        "Apartment",
+        "House",
+        "Condominium",
+        "Loft",
+        "Townhouse",
+        "Hostel",
+        "Guest suite",
+        "Bed & Breakfast",
+        "Bungalow",
+        "Guesthouse",
+        "Dorm",
+        "Other",
+        "Camper/RV",
+        "Villa",
+        "Boutique hotel",
+        "Timeshare",
+        "In-law",
+        "Boat",
+        "Serviced apartment",
+        "Castle",
+        "Cabin",
+        "Treehouse",
+        "Vacation home",
+        "Tent",
+        "Hut",
+        "Chalet",
+        "Yurt"
+    ],
+    "room_type": [
+        "Entire home/apt",
+        "Private room",
+        "Shared room"
+    ],
+    "bed_type": [
+        "Real Bed",
+        "Futon",
+        "Pull-out Sofa",
+        "Couch",
+        "Airbed"
+    ],
+    "cancellation_policy": [
+        "strict",
+        "moderate",
+        "flexible",
+        "super_strict_30",
+        "super_strict_60"
+    ],
+    "city": [
+        "NYC",
+        "SF",
+        "DC",
+        "LA",
+        "Chicago",
+        "Boston"
+    ]
+}
